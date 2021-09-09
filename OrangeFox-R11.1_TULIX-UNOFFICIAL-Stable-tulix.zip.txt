@@ -1,0 +1,5 @@
+Changelog for OrangeFox-R11.1_TULIX-UNOFFICIAL-Stable-tulix
+
+- Switch to Tulix
+- Add Alternatives for other codenames - tulip, twolip
+- Switch to new vars for better experience
